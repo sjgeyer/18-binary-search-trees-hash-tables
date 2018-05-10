@@ -29,6 +29,8 @@
     "jest": "^22.4.3"
   },
   "dependencies": {
-    "dotenv": "^5.0.1"
+    "dotenv": "^5.0.1",
+    "queue-fifo": "^0.2.4",
+    "stack-lifo": "^0.1.5"
   }
 }
